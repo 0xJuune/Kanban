@@ -1,0 +1,12 @@
+#topbar {
+    background-color: whitesmoke;
+}
+
+#sidebar {
+    background-color: hsl(209, 78%, 56%);
+    color: white;
+}
+
+.boardTitleSubheader {
+    font-weight: bolder;
+}
